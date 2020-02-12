@@ -1,0 +1,17 @@
+#include ".Xresources.d/Xresources.iceberg"
+XTerm.termName: xterm-256color
+URxvt.font: xft:Inconsolata for Powerline:size=16, \
+            xft:Inconsolata Nerd Font Mono:size=16, \
+            xft:Inconsolata Nerd Font:size=16, \
+            xft:Unifont:size=16, \
+            xft:FontAwesome
+            
+URxvt.scrollBar: false
+URxvt.internalBorder: 20
+// URxvt.transparent: true
+// URxvt.shading: 20
+URxvt.depth: 32
+URxvt.background: [90]#161821
+
+URxvt.iso14755: false
+URxvt.iso14755_52: false
